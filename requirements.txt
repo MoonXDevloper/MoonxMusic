@@ -1,4 +1,4 @@
-nodejs==15.0.0
+nodejs
 Flask==2.2.2
 gunicorn==20.1.0
 aiofiles
